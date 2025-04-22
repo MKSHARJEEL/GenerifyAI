@@ -1,7 +1,7 @@
 
-# GenrifyAI: Book Genre Classification using Text Analysis in Python
+# GenerifyAI: Book Genre Classification using Text Analysis in Python
 
-**Genrify** is a web app built with **Streamlit** that predicts the genre of a book based on its description using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques. By leveraging a **Naive Bayes classifier** and **TF-IDF vectorization**, the app classifies book genres and provides users with relevant recommendations.
+**Generify** is a web app built with **Streamlit** that predicts the genre of a book based on its description using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques. By leveraging a **Naive Bayes classifier** and **TF-IDF vectorization**, the app classifies book genres and provides users with relevant recommendations.
 
 ---
 
